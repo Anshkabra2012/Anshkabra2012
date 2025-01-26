@@ -27,11 +27,14 @@
 
 ## Badges
 
-[![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)](https://your-link-here.com)
+[![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)](https://discord.gg/uTQWQNmTAy)
 
-![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)
+![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)](https://github.com/anshkabra2012)
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/anshkabra2012?style=social)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/anshkabra2012?style=social)](https://x.com/anshkabra2012)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fanshkabra.me&link=https%3A%2F%2Fanshkabra.me)
+
 
 
   
