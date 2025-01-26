@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/anshkabra2012.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uTQWQNmTAy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnshKabra2012) ![Discord](https://img.shields.io/discord/1330652814447345754)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/anshkabra2012.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uTQWQNmTAy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnshKabra2012)
 
 
 # 💻 Tech Stack:
@@ -24,6 +24,11 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anshkabra) 
+
+## Badges
+![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)
+![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJdtHSo_1wR_XCFaKie_4GA)
 
   
 
