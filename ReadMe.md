@@ -26,7 +26,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anshkabra) 
 
 ## Badges
-![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)
+![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)(https://hi.com)
 --
 ![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)
 --
