@@ -26,11 +26,11 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anshkabra) 
 
 ## Badges
+
 [![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)](https://your-link-here.com)
 
---
 ![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)
---
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/anshkabra2012?style=social)
 
 
