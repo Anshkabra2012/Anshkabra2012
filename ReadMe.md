@@ -27,7 +27,7 @@
 
 ## Badges
 
-[![Discord](https://img.shields.io/discord/13306528144473457542?logo=Discord)](https://discord.gg/uTQWQNmTAy)
+[![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)](https://discord.gg/uTQWQNmTAy)
 
 [![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)](https://github.com/anshkabra2012)
 
