@@ -33,7 +33,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/anshkabra2012?style=social)](https://x.com/anshkabra2012)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fanshkabra.me&link=https%3A%2F%2Fanshkabra.me)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fanshkabra.me&link=https%3A%2F%2Fanshkabra.me)](https://anshkabra.me)
 
 
 
