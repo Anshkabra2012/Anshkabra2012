@@ -27,8 +27,12 @@
 
 ## Badges
 ![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)
+--
 ![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)
+--
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJdtHSo_1wR_XCFaKie_4GA)
+--
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/anshkabra2012)
 
   
 
