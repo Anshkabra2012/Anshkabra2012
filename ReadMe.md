@@ -35,7 +35,7 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fanshkabra.me)](https://anshkabra.me)
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1196888712177537037?showDisplayName=true&hideDecoration=false&theme=&idleMessage=I%20am%20coding)](https://discord.com/users/1196888712177537037)
 
 
   
