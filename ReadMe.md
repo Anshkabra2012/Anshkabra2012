@@ -27,15 +27,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anshkabra) 
 
-## Badges
-
-[![Discord](https://img.shields.io/discord/1330652814447345754?logo=Discord)](https://discord.gg/uTQWQNmTAy)
-
-[![GitHub followers](https://img.shields.io/github/followers/AnshKabra2012)](https://github.com/anshkabra2012)
-
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/anshkabra2012?style=social)](https://x.com/anshkabra2012)
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fanshkabra.me)](https://anshkabra.me)
 
 
 
