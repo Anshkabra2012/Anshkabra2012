@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Full-Stack Developer crafting seamless web experiences with a passion for innovation.<br>🌱 Currently Exploring the realms of blockchain and decentralized applications.<br>🚀 On a Mission to contribute to open-source projects that make a meaningful impact.<br>🎨 Creative Mind loves blending technology with design to build intuitive user interfaces.<br>📫 Let's Connect: anshkabra.india@gmail.com<br>🎸 Fun Fact: I love to code discord bots!
+🔧 Full-Stack Developer crafting seamless web experiences with a passion for innovation.<br>🌱 Currently Exploring the realms of blockchain and decentralized applications.<br>🚀 On a Mission to contribute to open-source projects that make a meaningful impact.<br>🎨 Creative Mind loves blending technology with design to build intuitive user interfaces.<br>📫 Let's Connect: resoluteplanes@gmail.com<br>🎸 Fun Fact: I love to code discord bots!
 
 
 ## 🌐 Socials:
