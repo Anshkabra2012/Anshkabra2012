@@ -1,9 +1,8 @@
 # 💫 About Me:
 🔧 Full-Stack Developer crafting seamless web experiences with a passion for innovation.<br>🌱 Currently Exploring the realms of blockchain and decentralized applications.<br>🚀 On a Mission to contribute to open-source projects that make a meaningful impact.<br>🎨 Creative Mind loves blending technology with design to build intuitive user interfaces.<br>📫 Let's Connect: resoluteplanes@gmail.com<br>🎸 Fun Fact: I love to code discord bots!
 
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/anshkabra2012.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uTQWQNmTAy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnshKabra2012)
+# My Discord Server
+<a href="https://discord.gg/uTQWQNmTAy"><img alt="Discord Server" src="https://invidget.switchblade.xyz/uTQWQNmTAy"></a>
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1196888712177537037?showDisplayName=true&hideDecoration=false&theme=&idleMessage=I%20am%20coding)](https://discord.com/users/1196888712177537037)
